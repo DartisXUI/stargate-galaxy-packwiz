@@ -1,0 +1,13 @@
+name = "Kaio Yuuji - Stargate Galaxy"
+author = "Kaio Yuuji"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "905346a72b7caac141dd825eda34bb2256face7771a291b7e6e93ea646e24f71"
+
+[versions]
+forge = "14.23.5.2860"
+minecraft = "1.12.2"
