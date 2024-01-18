@@ -1,0 +1,3 @@
+recipes.addShaped(<advancedrocketry:circlelight>, [[<ore:plateIron>, <minecraft:glowstone>, <ore:plateIron>]]);
+recipes.addShaped(<advancedrocketry:planetselector>, [[<advancedrocketry:ic:1>, <advancedrocketry:misc>, <advancedrocketry:ic:1>], [<advancedrocketry:satelliteprimaryfunction:1>, <advancedrocketry:dataunit>, <advancedrocketry:satelliteprimaryfunction:2>], [<advancedrocketry:ic:1>, <advancedrocketry:guidancecomputer>, <advancedrocketry:ic:1>]]);
+recipes.addShaped(<advancedrocketry:oxygencharger>, [[<ore:fanSteel>, <advancedrocketry:misc>, <libvulpes:productfan:6>], [<advancedrocketry:fueltank>, <libvulpes:structuremachine>, <advancedrocketry:fueltank>], [<ore:plateSteel>, <minecraft:heavy_weighted_pressure_plate>, <ore:plateSteel>]]);

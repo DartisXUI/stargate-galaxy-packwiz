@@ -1,0 +1,1 @@
+recipes.addShaped(<extrautils2:teleporter>, [[<minecraft:wool:11>, <minecraft:wool:13>, <minecraft:wool:11>],[<minecraft:wool:13>, <extrautils2:teleporter:1>, <minecraft:wool:13>], [<minecraft:wool:11>, <minecraft:wool:13>, <minecraft:wool:11>]]);

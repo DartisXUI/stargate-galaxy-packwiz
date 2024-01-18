@@ -1,0 +1,44 @@
+
+recipes.remove(<modularforcefieldsystem:option_light>);
+recipes.remove(<modularforcefieldsystem:option_touch_damage>);
+recipes.remove(<modularforcefieldsystem:option_sponge>);
+recipes.remove(<modularforcefieldsystem:option_mob_defense>);
+recipes.remove(<modularforcefieldsystem:option_field_jammer>);
+recipes.remove(<modularforcefieldsystem:option_field_manipulator>);
+recipes.remove(<modularforcefieldsystem:option_field_fusion>);
+recipes.remove(<modularforcefieldsystem:option_defense_station>);
+recipes.remove(<modularforcefieldsystem:option_block_breaker>);
+recipes.remove(<modularforcefieldsystem:multitool_wrench>);
+recipes.remove(<modularforcefieldsystem:extractor_upgrade_booster>);
+recipes.remove(<modularforcefieldsystem:empty_card>);
+recipes.remove(<modularforcefieldsystem:upgrade_range>);
+recipes.remove(<modularforcefieldsystem:upgrade_capacity>);
+recipes.remove(<modularforcefieldsystem:projector>);
+recipes.remove(<modularforcefieldsystem:projector_focus_matrix> * 64);
+recipes.remove(<modularforcefieldsystem:control_system>);
+recipes.remove(<modularforcefieldsystem:capacitor>);
+recipes.remove(<modularforcefieldsystem:area_defense>);
+recipes.remove(<modularforcefieldsystem:adv_security>);
+
+recipes.addShaped(<modularforcefieldsystem:option_light>, [[null, <enderio:item_alloy_ingot:9>, null],[<enderio:item_alloy_ingot:9>, <minecraft:glowstone>, <enderio:item_alloy_ingot:9>], [null, <enderio:item_alloy_ingot:9>, null]]);
+recipes.addShaped(<modularforcefieldsystem:option_touch_damage>, [[null, <enderio:item_alloy_ingot:9>, null],[<enderio:item_alloy_ingot:9>, <immersiveengineering:metal_decoration0:2>, <enderio:item_alloy_ingot:9>], [null, <enderio:item_alloy_ingot:9>, null]]);
+recipes.addShaped(<modularforcefieldsystem:option_sponge>, [[null, <enderio:item_alloy_ingot:9>, null],[<enderio:item_alloy_ingot:9>, <minecraft:bucket>, <enderio:item_alloy_ingot:9>], [null, <enderio:item_alloy_ingot:9>, null]]);
+recipes.addShaped(<modularforcefieldsystem:option_mob_defense>, [[<minecraft:bone>, <minecraft:blaze_rod>, <minecraft:bone>],[<minecraft:rotten_flesh>, <immersiveengineering:metal_decoration0:2>, <minecraft:rotten_flesh>], [<minecraft:spider_eye>, <minecraft:blaze_rod>, <minecraft:spider_eye>]]);
+recipes.addShaped(<modularforcefieldsystem:option_field_jammer>, [[null, <advancedrocketry:satelliteprimaryfunction:3>, null],[<advancedrocketry:satelliteprimaryfunction:3>, <modularforcefieldsystem:projector_focus_matrix>, <advancedrocketry:satelliteprimaryfunction:3>], [null, <advancedrocketry:satelliteprimaryfunction:3>, null]]);
+recipes.addShaped(<modularforcefieldsystem:option_field_manipulator>, [[null, <enderio:item_alloy_ingot:9>, null],[<enderio:item_alloy_ingot:9>, <mekanism:controlcircuit>, <enderio:item_alloy_ingot:9>], [null, <enderio:item_alloy_ingot:9>, null]]);
+recipes.addShaped(<modularforcefieldsystem:option_field_fusion>, [[null, <enderio:item_alloy_ingot:9>, null],[<enderio:item_alloy_ingot:9>, <mekanism:controlcircuit:1>, <enderio:item_alloy_ingot:9>], [null, <enderio:item_alloy_ingot:9>, null]]);
+recipes.addShaped(<modularforcefieldsystem:option_defense_station>, [[null, null, null],[<mekanism:controlcircuit:1>, <immersiveengineering:metal_decoration0:2>, <mekanism:controlcircuit:1>], [null, null, null]]);
+recipes.addShaped(<modularforcefieldsystem:option_block_breaker>, [[null, <enderio:item_alloy_ingot:9>, null],[<enderio:item_alloy_ingot:9>, <minecraft:iron_pickaxe>, <enderio:item_alloy_ingot:9>], [null, <enderio:item_alloy_ingot:9>, null]]);
+recipes.addShaped(<modularforcefieldsystem:multitool_wrench>, [[<minecraft:redstone>, <thermalfoundation:wrench>, <minecraft:lever>],[<advancedrocketry:misc:1>, <modularforcefieldsystem:forcepower_crystal:101>, <advancedrocketry:misc:1>], [<advancedrocketry:misc:1>, <mekanism:controlcircuit:1>, <advancedrocketry:misc:1>]]);
+recipes.addShaped(<modularforcefieldsystem:extractor_upgrade_booster>, [[null, <advancedrocketry:misc:1>, null],[<advancedrocketry:misc:1>, <extrautils2:machine>, <advancedrocketry:misc:1>], [null, <advancedrocketry:misc:1>, null]]);
+recipes.addShaped(<modularforcefieldsystem:empty_card>, [[<minecraft:paper>, <minecraft:paper>, <minecraft:paper>],[<minecraft:paper>, <mekanism:controlcircuit>, <minecraft:paper>], [<minecraft:paper>, <minecraft:paper>, <minecraft:paper>]]);
+recipes.addShaped(<modularforcefieldsystem:upgrade_range>, [[<immersiveengineering:material:20>, <immersiveengineering:material:20>, <immersiveengineering:material:20>],[<advancedrocketry:misc:1>, <immersiveengineering:wirecoil:7>, <advancedrocketry:misc:1>], [<advancedrocketry:misc:1>, <mekanism:controlcircuit:1>, <advancedrocketry:misc:1>]]);
+recipes.addShaped(<modularforcefieldsystem:upgrade_capacity>, [[null, <advancedrocketry:misc:1>, null],[<advancedrocketry:misc:1>, <modularforcefieldsystem:forcepower_crystal:101>, <advancedrocketry:misc:1>], [null, <advancedrocketry:misc:1>, null]]);
+recipes.addShaped(<modularforcefieldsystem:projector>, [[<enderio:item_alloy_ingot:9>, <modularforcefieldsystem:projector_focus_matrix>, <enderio:item_alloy_ingot:9>],[<modularforcefieldsystem:projector_focus_matrix>, <enderio:item_material>, <modularforcefieldsystem:projector_focus_matrix>], [<enderio:item_alloy_ingot:9>, <advancedrocketry:satelliteprimaryfunction:3>, <enderio:item_alloy_ingot:9>]]);
+recipes.addShaped(<modularforcefieldsystem:projector_focus_matrix> * 64, [[<thermalfoundation:material:32>, <minecraft:glass>, <thermalfoundation:material:32>],[<minecraft:glass>, <enderio:item_material>, <minecraft:glass>], [<thermalfoundation:material:32>, <minecraft:glass>, <thermalfoundation:material:32>]]);
+recipes.addShaped(<modularforcefieldsystem:control_system>, [[null, <mekanism:controlcircuit>, null],[<modularforcefieldsystem:forcepower_crystal:101>, <enderio:item_material>, <modularforcefieldsystem:forcepower_crystal:101>], [null, <rftoolsdim:energy_extractor>, null]]);
+recipes.addShaped(<modularforcefieldsystem:control_system>, [[<minecraft:ender_pearl>, <mekanism:controlcircuit>, <minecraft:ender_pearl>],[<thermalfoundation:material:32>, <enderio:item_material>, <thermalfoundation:material:32>], [<thermalfoundation:material:32>, <mekanism:controlcircuit>, <thermalfoundation:material:32>]]);
+recipes.addShaped(<modularforcefieldsystem:capacitor>, [[<modularforcefieldsystem:forcepower_crystal:101>, <advancedrocketry:satelliteprimaryfunction:3>, <modularforcefieldsystem:forcepower_crystal:101>],[<mekanism:controlcircuit>, <enderio:item_material>, <mekanism:controlcircuit>], [<modularforcefieldsystem:forcepower_crystal:101>, <advancedrocketry:satelliteprimaryfunction:3>, <modularforcefieldsystem:forcepower_crystal:101>]]);
+recipes.addShaped(<modularforcefieldsystem:area_defense>, [[null, <advancedrocketry:satelliteprimaryfunction:3>, null],[<minecraft:ender_pearl>, <enderio:item_material>, <minecraft:ender_pearl>], [null, <advancedrocketry:misc:1>, null]]);
+recipes.addShaped(<modularforcefieldsystem:adv_security>, [[<enderio:item_alloy_ingot:9>, <mekanism:controlcircuit>, <enderio:item_alloy_ingot:9>],[<mekanism:controlcircuit>, <enderio:item_material>, <mekanism:controlcircuit>], [<enderio:item_alloy_ingot:9>, <advancedrocketry:satelliteprimaryfunction:3>, <enderio:item_alloy_ingot:9>]]);
+

@@ -1,0 +1,1 @@
+recipes.addShaped(<sgcraft:zpm>, [[<extrautils2:opinium:8>, <ore:compressed8xCobblestone>, <extrautils2:opinium:8>], [<ore:compressed8xCobblestone>, <sgcraft:sgcorecrystal>, <ore:compressed8xCobblestone>], [<extrautils2:opinium:8>, <ore:compressed8xCobblestone>, <extrautils2:opinium:8>]]);

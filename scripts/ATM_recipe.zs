@@ -1,0 +1,1 @@
+recipes.addShaped(<fsmm:atm>, [[<ore:blockIron>, <ore:blockIron>, <ore:blockIron>], [<ore:blockIron>, <ore:blockRedstone>.noReturn(), <ore:blockIron>], [<minecraft:iron_block>, <minecraft:iron_block>, <minecraft:iron_block>]]);

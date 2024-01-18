@@ -1,0 +1,1 @@
+recipes.addShaped(<minecraft:end_portal_frame>, [[<minecraft:end_stone>, <minecraft:end_stone>, <minecraft:end_stone>],[<minecraft:end_stone>, <minecraft:nether_star>, <minecraft:end_stone>], [<minecraft:end_stone>, <minecraft:end_stone>, <minecraft:end_stone>]]);
